@@ -1,0 +1,25 @@
+body{background-image: url('https://img.freepik.com/free-photo/motherboard-circuit-technology-background-gradient-blue_53876-124645.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.header {background-image: url('robotics-club.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-color: #457b9d;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;}
+
+#bot    {width: 50%;
+
+}
+
+.content {
+			color: white;
+     		padding: 20px;
+           background-color: #415a77; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; 
+        }     
