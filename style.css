@@ -16,10 +16,9 @@ body{background-image: url('https://img.freepik.com/free-photo/motherboard-circu
 }
 
 .content {
-			color: white;
-     		padding: 20px;
-           background-color: #415a77; 
-           border-radius: 5px;
-           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-           opacity: 0.9; 
+	color: white;
+     	padding: 20px;
+        background-color: #415a77; 
+        border-radius: 5px;
+
         }     
